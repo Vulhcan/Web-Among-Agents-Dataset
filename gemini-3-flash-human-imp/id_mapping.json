@@ -1,0 +1,210 @@
+{
+  "2026-04-17_exp_2": {
+    "exp_folder": "exp_000",
+    "run_id": "gemini-hi:exp_000"
+  },
+  "2026-04-17_exp_3": {
+    "exp_folder": "exp_001",
+    "run_id": "gemini-hi:exp_001"
+  },
+  "2026-04-17_exp_4": {
+    "exp_folder": "exp_002",
+    "run_id": "gemini-hi:exp_002"
+  },
+  "2026-04-17_exp_5": {
+    "exp_folder": "exp_003",
+    "run_id": "gemini-hi:exp_003"
+  },
+  "2026-04-17_exp_6": {
+    "exp_folder": "exp_004",
+    "run_id": "gemini-hi:exp_004"
+  },
+  "2026-04-17_exp_7": {
+    "exp_folder": "exp_005",
+    "run_id": "gemini-hi:exp_005"
+  },
+  "2026-04-17_exp_8": {
+    "exp_folder": "exp_006",
+    "run_id": "gemini-hi:exp_006"
+  },
+  "2026-04-17_exp_9": {
+    "exp_folder": "exp_007",
+    "run_id": "gemini-hi:exp_007"
+  },
+  "2026-04-17_exp_10": {
+    "exp_folder": "exp_008",
+    "run_id": "gemini-hi:exp_008"
+  },
+  "2026-04-17_exp_11": {
+    "exp_folder": "exp_009",
+    "run_id": "gemini-hi:exp_009"
+  },
+  "2026-04-17_exp_12": {
+    "exp_folder": "exp_010",
+    "run_id": "gemini-hi:exp_010"
+  },
+  "2026-04-17_exp_13": {
+    "exp_folder": "exp_011",
+    "run_id": "gemini-hi:exp_011"
+  },
+  "2026-04-17_exp_14": {
+    "exp_folder": "exp_012",
+    "run_id": "gemini-hi:exp_012"
+  },
+  "2026-04-17_exp_15": {
+    "exp_folder": "exp_013",
+    "run_id": "gemini-hi:exp_013"
+  },
+  "2026-04-17_exp_16": {
+    "exp_folder": "exp_014",
+    "run_id": "gemini-hi:exp_014"
+  },
+  "2026-04-17_exp_17": {
+    "exp_folder": "exp_015",
+    "run_id": "gemini-hi:exp_015"
+  },
+  "2026-04-17_exp_18": {
+    "exp_folder": "exp_016",
+    "run_id": "gemini-hi:exp_016"
+  },
+  "2026-04-17_exp_19": {
+    "exp_folder": "exp_017",
+    "run_id": "gemini-hi:exp_017"
+  },
+  "2026-04-17_exp_20": {
+    "exp_folder": "exp_018",
+    "run_id": "gemini-hi:exp_018"
+  },
+  "2026-04-17_exp_21": {
+    "exp_folder": "exp_019",
+    "run_id": "gemini-hi:exp_019"
+  },
+  "2026-04-17_exp_22": {
+    "exp_folder": "exp_020",
+    "run_id": "gemini-hi:exp_020"
+  },
+  "2026-04-17_exp_23": {
+    "exp_folder": "exp_021",
+    "run_id": "gemini-hi:exp_021"
+  },
+  "2026-04-17_exp_24": {
+    "exp_folder": "exp_022",
+    "run_id": "gemini-hi:exp_022"
+  },
+  "2026-04-17_exp_25": {
+    "exp_folder": "exp_023",
+    "run_id": "gemini-hi:exp_023"
+  },
+  "2026-04-17_exp_26": {
+    "exp_folder": "exp_024",
+    "run_id": "gemini-hi:exp_024"
+  },
+  "2026-04-17_exp_27": {
+    "exp_folder": "exp_025",
+    "run_id": "gemini-hi:exp_025"
+  },
+  "2026-04-17_exp_28": {
+    "exp_folder": "exp_026",
+    "run_id": "gemini-hi:exp_026"
+  },
+  "2026-04-17_exp_29": {
+    "exp_folder": "exp_027",
+    "run_id": "gemini-hi:exp_027"
+  },
+  "2026-04-17_exp_30": {
+    "exp_folder": "exp_028",
+    "run_id": "gemini-hi:exp_028"
+  },
+  "2026-04-17_exp_31": {
+    "exp_folder": "exp_029",
+    "run_id": "gemini-hi:exp_029"
+  },
+  "2026-04-17_exp_32": {
+    "exp_folder": "exp_030",
+    "run_id": "gemini-hi:exp_030"
+  },
+  "2026-04-17_exp_33": {
+    "exp_folder": "exp_031",
+    "run_id": "gemini-hi:exp_031"
+  },
+  "2026-04-17_exp_34": {
+    "exp_folder": "exp_032",
+    "run_id": "gemini-hi:exp_032"
+  },
+  "2026-04-17_exp_35": {
+    "exp_folder": "exp_033",
+    "run_id": "gemini-hi:exp_033"
+  },
+  "2026-04-17_exp_36": {
+    "exp_folder": "exp_034",
+    "run_id": "gemini-hi:exp_034"
+  },
+  "2026-04-17_exp_37": {
+    "exp_folder": "exp_035",
+    "run_id": "gemini-hi:exp_035"
+  },
+  "2026-04-17_exp_38": {
+    "exp_folder": "exp_036",
+    "run_id": "gemini-hi:exp_036"
+  },
+  "2026-04-17_exp_39": {
+    "exp_folder": "exp_037",
+    "run_id": "gemini-hi:exp_037"
+  },
+  "2026-04-17_exp_40": {
+    "exp_folder": "exp_038",
+    "run_id": "gemini-hi:exp_038"
+  },
+  "2026-04-17_exp_41": {
+    "exp_folder": "exp_039",
+    "run_id": "gemini-hi:exp_039"
+  },
+  "2026-04-17_exp_42": {
+    "exp_folder": "exp_040",
+    "run_id": "gemini-hi:exp_040"
+  },
+  "2026-04-17_exp_43": {
+    "exp_folder": "exp_041",
+    "run_id": "gemini-hi:exp_041"
+  },
+  "2026-04-17_exp_44": {
+    "exp_folder": "exp_042",
+    "run_id": "gemini-hi:exp_042"
+  },
+  "2026-04-17_exp_45": {
+    "exp_folder": "exp_043",
+    "run_id": "gemini-hi:exp_043"
+  },
+  "2026-04-17_exp_46": {
+    "exp_folder": "exp_044",
+    "run_id": "gemini-hi:exp_044"
+  },
+  "2026-04-17_exp_47": {
+    "exp_folder": "exp_045",
+    "run_id": "gemini-hi:exp_045"
+  },
+  "2026-04-17_exp_48": {
+    "exp_folder": "exp_046",
+    "run_id": "gemini-hi:exp_046"
+  },
+  "2026-04-17_exp_49": {
+    "exp_folder": "exp_047",
+    "run_id": "gemini-hi:exp_047"
+  },
+  "2026-04-17_exp_50": {
+    "exp_folder": "exp_048",
+    "run_id": "gemini-hi:exp_048"
+  },
+  "2026-04-17_exp_51": {
+    "exp_folder": "exp_049",
+    "run_id": "gemini-hi:exp_049"
+  },
+  "2026-04-17_exp_52": {
+    "exp_folder": "exp_050",
+    "run_id": "gemini-hi:exp_050"
+  },
+  "2026-04-17_exp_53": {
+    "exp_folder": "exp_051",
+    "run_id": "gemini-hi:exp_051"
+  }
+}
